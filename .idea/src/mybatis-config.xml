@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+	<!-- 引入db.properties文件 以便下面通过${key}方式来引用db.properties文件中的相对应的值 -->
+	<properties resource="db.properties"/>
+	
+	<!-- 设置多个别名 用包名 会自动将该包内的所有类设置别名 别名就是类名 -->
+    <typeAliases>
+      <package name="Model"/>
+    </typeAliases>
+
+    <mappers>
+        <mapper resource="Mapper/MusicMapper/MusicMapper.xml" />
+        <mapper resource="Mapper/AdminMapper/AdminMapper.xml"/>
+        <mapper resource="Mapper/UserMapper/UserMapper.xml"/>
+        <mapper resource="Mapper/ReporterMapper/ReporterMapper.xml"/>
+        <mapper resource="Mapper/CommentsMapper/CommentsMapper.xml" />
+        <mapper resource="Mapper/VideoMapper/VideoMapper" />
+    </mappers>
+
+</configuration>

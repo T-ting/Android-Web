@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="Mapper.VideoMapper.VideoMapper">
+
+    <select id="S_video" resultType="Video">
+        SELECT * FROM Video
+    </select>
+
+    <select id="Sou_video" resultType="Video" parameterType="Video">
+        SELECT * from Video WHERE name LIKE "%"#{name}"%"
+    </select>
+</mapper>

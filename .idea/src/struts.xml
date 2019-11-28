@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+    <!-- 配置常量 -->
+    <!-- 配置开发模式 -->
+    <constant name="struts.devMode" value="true"/>
+    <constant name="struts.convention.package.locators" value="action"/>
+
+    <constant name="struts.i18n.encoding" value="UTF-8"/>
+
+    <constant name="struts.objectFactory" value="spring"/>
+
+
+    <package name="User" extends="struts-default,json-default">
+
+        <global-results>
+            <result name="success" type="json">
+                <param name="root">json</param>
+            </result>
+        </global-results>
+        <action name="userlogin" class="action.UserAction.UserLogin" method="execute" />
+        <action name="userRegister" class="action.UserAction.UserRegister" method="execute" />
+        <action name="UserPush" class="action.UserAction.UserCoin" method="push" /><!-- 用户投币 -->
+        <action name="UserAdd" class="action.UserAction.UserCoin" method="add" /><!-- 增加硬币 -->
+        <action name="UserCollection" class="action.UserAction.UserCollection" method="execute" /><!-- 用户收藏 -->
+
+    </package>
+
+    <package name="Reporter" extends="struts-default,json-default">
+
+        <global-results>
+            <result name="success" type="json">
+                <param name="root">json</param>
+            </result>
+        </global-results>
+        <action name="ReporterLogin" class="action.ReporterAction.ReporterLogin" method="execute">
+           <!-- <result name="success" type="json">
+                <param name="root">json</param>
+            </result>-->
+        </action>
+
+        <action name="writernews" class="action.ReporterAction.WriterNews" method="execute">
+
+        </action>
+
+    </package>
+
+    <package name="News" extends="struts-default,json-default">
+        <global-results>
+            <result name="success" type="json">
+                <param name="root">json</param>
+            </result>
+        </global-results>
+
+        <action name="testnews" class="action.NewsAction.test" method="execute"/>
+        <action name="SelectAllNews" class="action.NewsAction.SelectAllNews" method="execute"/>
+        <action name="se_news" class="action.NewsAction.Se_News" method="execute" />
+
+    </package>
+
+    <package name="Comments" extends="struts-default,json-default">
+        <global-results>
+            <result name="success" type="json">
+                <param name="root">json</param>
+            </result>
+        </global-results>
+
+        <action name="userWriter" class="action.CommentsAction.writer" method="userWriter" />
+        <action name="select" class="action.CommentsAction.SelectComments" method="execute" />
+    </package>
+
+    <package name="Music" extends="struts-default,json-default">
+        <global-results>
+            <result name="success" type="json">
+                <param name="root">json</param>
+            </result>
+        </global-results>
+
+        <action name="S_music" class="action.MusicAction.S_Music_Action" method="execute" />
+        <action name="se_music" class="action.MusicAction.Se_Music" method="execute" />
+    </package>
+
+    <package name="Video" extends="json-default,struts-default">
+        <global-results>
+            <result name="success" type="json">
+                <param name="root">json</param>
+            </result>
+        </global-results>
+
+        <action name="Se_video" class="action.VideoAction.Se_video" method="execute" />
+        <action name="Sou_video" class="action.VideoAction.SouVideo" method="execute" />
+    </package>
+
+    <package name="SC" extends="json-default,struts-default">
+        <global-results>
+            <result name="success" type="json">
+                <param name="root">json</param>
+            </result>
+        </global-results>
+
+        <action name="se_SC" class="action.UserAction.SelectSCAction" method="execute" /><!-- 查询该新闻是否已经被该用户收藏 -->
+        <action name="de_sc" class="action.UserAction.SelectSCAction" method="delectsc" /><!-- 取消收藏 -->
+    </package>
+
+</struts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="Mapper.NewsMapper.NewsMapper">
+
+    <!--一对一关联查询 以记者名字-->
+  <!--  <select id="sel" parameterType="News" resultMap="news_repoerter">
+        SELECT News.*,Reporter.* FROM News INNER JOIN Reporter
+        ON News.name = Reporter.name
+        WHERE News.name = #{name}
+    </select>
+    
+    <resultMap id="news_repoerter" type="News">
+        <result property="name" column="name"/>
+        <result property="text" column="text"/>
+        <result property="time" column="time"/>
+        <result property="title" column="title"/>
+
+        <association property="reporter" javaType="Reporter">
+            <id property="id" column="id"/>
+            <result property="name" column="name"/>
+            <result property="password" column="password"/>
+        </association>
+    </resultMap>-->
+
+    <insert id="writernews" parameterType="News" >
+        INSERT INTO News VALUES (#{id},#{name},#{title},#{text},#{time})
+    </insert>
+
+    <select id="selectAll" resultType="News">
+        SELECT * FROM News limit 10
+    </select>
+
+    <select id="selectNewsByid" parameterType="News" resultType="News">
+        SELECT * FROM News WHERE id = #{id}
+    </select>
+
+    <select id="se_news" parameterType="News" resultType="News">
+        SELECT * FROM News WHERE name LIKE "%"#{name}"%" or title like "%"#{name}"%"
+    </select>
+
+</mapper>

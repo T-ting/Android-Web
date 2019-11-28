@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="Mapper.CommentsMapper.CommentsMapper">
+
+    <insert id="writeComments" parameterType="Comments">
+        INSERT INTO Comments VALUES (#{id},#{name},#{text},#{time},#{news_id},#{video_id})
+    </insert>
+
+    <select id="selectComments" parameterType="Comments" resultType="Comments">
+        SELECT * FROM Comments WHERE news_id = #{news_id} and video_id = #{video_id}
+    </select>
+
+</mapper>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="Mapper.UserMapper.UserMapper">
+
+    <select id="userlogin" parameterType="User" resultType="User">
+        SELECT * FROM User WHERE id = #{id} and password = #{password}
+    </select>
+
+    <insert id="UserRegister" parameterType="User" >
+        INSERT INTO User VALUES (#{id},#{name},#{password},#{money},#{collection})
+    </insert>
+
+    <!-- 用户投币 -->
+    <update id="UserCoin" parameterType="User">
+        UPDATE User SET money = #{money} where id = #{id}
+    </update>
+
+    <!-- 用户收藏 -->
+    <update id="UserCollection" parameterType="User">
+        UPDATE User SET collection = #{money} where id = #{id}
+    </update>
+
+    <select id="SelectUserById" parameterType="int" resultType="User">
+        SELECT * FROM User WHERE id = #{id}
+    </select>
+
+    <!-- 将收藏的具体信息写入收藏表 -->
+    <insert id="in_collection" parameterType="SC">
+        INSERT INTO Collection VALUES (#{id},#{use_id},#{news_id},#{status})
+    </insert>
+
+    <select id="selectSC" parameterType="int" resultType="SC">
+        SELECT * FROM Collection WHERE  use_id = #{use_id}
+    </select>
+
+    <delete id="de_sc" parameterType="SC" >
+        DELETE from Collection WHERE news_id = #{news_id} and use_id = #{use_id}
+    </delete>
+
+</mapper>
