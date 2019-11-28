@@ -1,175 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c4ce602-efa4-4b4d-b765-19aaaec8a9ad" name="默认" comment="web服务端">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/asm-5.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/asm-commons-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/asm-tree-6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-beanutils-1.7.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-collections-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-dbcp-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-fileupload.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-httpclient-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-io.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-lang-2.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-lang.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/commons-pool-1.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/ezmorph-1.0.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/fastjson-1.2.47.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/freemarker.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/javassist-3.11.0.GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/javax.mail-1.6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/javax.servlet.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/json-lib-2.2.3-jdk15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/log4j-core-2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/log4j.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/mybatis-3.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/mybatis-spring-1.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/mysql-connector-java-5.0.8-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/ognl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/servlet-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-aop-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-beans-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-context-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-context-support-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-core-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-expression-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-jdbc-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-tx-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-web-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/spring-web-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/struts2-convention-plugin-2.3.24.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/struts2-core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/struts2-json-plugin-2.3.16.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/struts2-spring-plugin-2.2.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lib/xwork-core-2.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-beanutils-1.7.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-collections-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-dbcp-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-fileupload.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-httpclient-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-io.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-lang-2.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-lang.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/commons-pool-1.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/ezmorph-1.0.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/fastjson-1.2.47.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/freemarker.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/javassist-3.11.0.GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/javax.mail-1.6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/json-lib-2.2.3-jdk15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/log4j-core-2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/log4j.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/mybatis-3.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/mybatis-spring-1.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/ognl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/servlet-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-aop-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-beans-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-context-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-context-support-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-core-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-expression-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-jdbc-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-tx-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-web-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/spring-web-4.3.9.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/struts2-core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/struts2-json-plugin-2.3.16.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/struts2-spring-plugin-2.2.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/lib/xwork-core-2.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/AdminMapper/AdminMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/AdminMapper/AdminMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/CommentsMapper/CommentsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/CommentsMapper/CommentsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/MusicMapper/MusicMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/MusicMapper/MusicMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/NewsMapper/NewsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/NewsMapper/NewsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/ReporterMapper/ReporterMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/ReporterMapper/ReporterMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/UserMapper/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/UserMapper/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/VideoMapper/VideoMapper" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Mapper/VideoMapper/VideoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Model/Admin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Model/Comments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Model/Music.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Model/News.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Model/Reporter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Model/SC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Model/VC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Model/Video.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/CommentsService/CommentsServiceImpl/selectCommentsImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/CommentsService/CommentsServiceImpl/writerCommentsImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/CommentsService/selectComments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/CommentsService/writerComments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/MusicService/MusicServiceImpl/Se_MusicServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/MusicService/MusicServiceImpl/SelectMusicImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/MusicService/Se_MusicService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/MusicService/SelectMusic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/NewsService/NewsServiceImpl/Se_newsServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/NewsService/NewsServiceImpl/SelectAllNewsImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/NewsService/NewsServiceImpl/selectNewsByTitleImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/NewsService/Se_NewsService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/NewsService/SelectAllNews.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/NewsService/selectNewsByTitle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/ReporterService/ReporterLogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/ReporterService/ReporterServiceImpl/ReporterLoginImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/De_sc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/SelectById.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserCoin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserCollection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserLogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserRegister.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserServiceImpl/Delete_Sc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserServiceImpl/SelectByIdImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserServiceImpl/UserCoinImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserServiceImpl/UserCollectionImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserServiceImpl/UserLoginImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserServiceImpl/UserRegisterImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/UserServiceImpl/selectSCImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/UserService/selectSC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/VideoService/S_videoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/VideoService/Sou_videoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/VideoService/VideoServiceImpl/S_videoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Service/VideoService/VideoServiceImpl/Sou_videoServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Util/LayerResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/Util/ReadJsonString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/CommentsAction/SelectComments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/CommentsAction/writer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/MusicAction/S_Music_Action.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/MusicAction/Se_Music.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/NewsAction/Se_News.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/NewsAction/SelectAllNews.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/NewsAction/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/ReporterAction/ReporterLogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/ReporterAction/WriterNews.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/UserAction/SelectSCAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/UserAction/UserCoin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/UserAction/UserCollection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/UserAction/UserLogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/UserAction/UserRegister.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/VideoAction/Se_video.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/action/VideoAction/SouVideo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/json-default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/src/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/web/test.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android-Web.iml" />
+    <list default="true" id="5c4ce602-efa4-4b4d-b765-19aaaec8a9ad" name="默认" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/outputs/apk/app-debug.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/bf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/mao.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/pl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/shudan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/sys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/xi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/xiaoxi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/xin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/xin1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/xys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/zhanghu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/drawable/zhanting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/buildConfig/androidTest/debug/com/example/android/test/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/buildConfig/debug/com/example/android/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/androidTest/debug/android/app/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/androidTest/debug/android/support/test/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/idling/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/androidTest/debug/com/example/android/test/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/compat/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/constraint/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/coreui/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/coreutils/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/design/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/fragment/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/mediacompat/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/v4/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/com/example/android/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/generated/source/r/debug/de/hdodenhof/circleimageview/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/design_error.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/layout/comments_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/layout/index_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/layout/nav_header.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/intermediates/res/merged/debug/menu/nav_menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/androidTest/java/com/example/android/ExampleInstrumentedTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Activity/ReporterActivity/UserActivity/IndexActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Activity/ReporterActivity/UserActivity/InfoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Activity/ReporterActivity/UserActivity/MyCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Activity/ReporterActivity/UserActivity/RegisterActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Activity/ReporterActivity/UserActivity/ShowNews.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Activity/ReporterActivity/UserActivity/sousuo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Activity/ReporterActivity/VideoActivity/VideoShow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Adapter/MusicAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Adapter/NewsAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Adapter/PingLunAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Adapter/VideoAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Model/Admin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Model/Comments.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Model/Music.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Model/News.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Model/Reporter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Model/SC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Model/Video.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/java/com/example/android/Model/VideoList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/activity_index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/activity_info.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/activity_my_collection.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/activity_register.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/activity_show_news.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/activity_sousuo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/activity_video_show.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/comments_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/index_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/music_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/nav_header.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/layout/video_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/menu/nav_menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android/app/src/test/java/com/example/android/ExampleUnitTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -247,6 +206,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Android_Server\Android-Web" />
       <recent name="E:\Android_Server\Android-Web\.idea" />
     </key>
   </component>
@@ -356,12 +316,20 @@
       <option name="presentableId" value="Default" />
       <updated>1574952521840</updated>
       <workItem from="1574952523536" duration="231000" />
-      <workItem from="1574952994362" duration="544000" />
+      <workItem from="1574952994362" duration="663000" />
     </task>
+    <task id="LOCAL-00001" summary="web服务端">
+      <created>1574953568718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574953568718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="775000" />
+    <option name="totallyTimeSpent" value="894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -380,7 +348,7 @@
       <window_info id="MyBatis Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17811158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2945279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="设计器" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -421,6 +389,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/src/action/CommentsAction/SelectComments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android/app/src/main/java/com/example/android/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
